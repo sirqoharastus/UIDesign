@@ -8,13 +8,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="milk">#F8EFCE</color>
-    <color name="backgroung_color">#FFFFFF</color>
+    <color name="backgroung_color">#0B0A0A</color>
     <color name="white_text_color">#FFFFFF</color>
-    <color name="black_text_color">#000000</color>
-    <color name="black_button_background">#000000</color>
-    <color name="white_button_background">#FFFFFF</color>
+    <color name="black_text_color">#FFFFFF</color>
+    <color name="black_button_background">#322E2E</color>
+    <color name="white_button_background">#322E2E</color>
     <color name="textView_color">#000000</color>
-    <color name="SearchView_background">@color/milk</color>
-    <color name="menu">@color/black</color>
+    <color name="SearchView_background">#322E2E</color>
+    <color name="menu">@color/white</color>
 
 </resources>
